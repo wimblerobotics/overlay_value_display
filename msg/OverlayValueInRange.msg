@@ -1,0 +1,4 @@
+float32 min_value
+float32 max_value
+float32 current_value
+std_msgs/ColorRGBA current_color

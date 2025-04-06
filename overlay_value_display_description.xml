@@ -1,0 +1,5 @@
+<library path="lib">
+  <class name="overlay_value_display/OverlayValueDisplay" type="overlay_value_display::OverlayValueDisplay" base_class="rviz_common::Display">
+    <description>Displays a rectangular graph with values from a custom ROS 2 message.</description>
+  </class>
+</library>
